@@ -23,7 +23,7 @@ This project is a data visualization dashboard built using Plotly Dash and Boots
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/hotel-booking-analysis.git
+    git clone https://github.com/DhruvViradiya1515/Hotel-Booking-Analysis-Dashboard.git
     cd hotel-booking-analysis
     ```
 
@@ -31,8 +31,6 @@ This project is a data visualization dashboard built using Plotly Dash and Boots
     ```bash
     pip install -r requirements.txt
     ```
-
-3. Ensure that you have the dataset (`hotel_bookings.csv`) in the root directory. You can download the dataset from [here](https://www.kaggle.com/jessemostipak/hotel-booking-demand).
 
 ## Usage
 
