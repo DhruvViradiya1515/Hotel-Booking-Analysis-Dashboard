@@ -48,9 +48,7 @@ hotel-booking-analysis/
 │
 ├── app.py                   # Main application script
 ├── hotel_bookings.csv        # Dataset
-├── style.css                 # Custom CSS styling for the app
 ├── README.md                 # This file
-└── requirements.txt          # Required Python packages
 ```
 
 ## Visualizations
